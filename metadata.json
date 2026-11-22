@@ -1,0 +1,6 @@
+{
+  "name": "Lịch Nhóm 5 Người",
+  "description": "Ứng dụng quản lý thời gian rảnh/bận theo tuần cho nhóm 5 người (Ngọc, Trình, Đang, Tài, Khoa), hỗ trợ ghi chú theo 4 buổi và nhật ký chỉnh sửa trực tiếp.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
